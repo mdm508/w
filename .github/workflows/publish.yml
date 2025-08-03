@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: logseq/publish-spa@main
         with:
-          graph-directory: . # The directory where your Logseq graph is located
+          graph-directory: logseq # The directory where your Logseq graph is located
           version: nightly 
           theme-mode: dark
           accent-color: 'violet'  
