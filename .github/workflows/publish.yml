@@ -1,0 +1,21 @@
+name: Publish Logseq Graph
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: logseq/publish-spa@main
+        with:
+          graph-directory: . # The directory where your Logseq graph is located
+          version: nightly 
+          theme-mode: dark
+          accent-color: 'violet'  
+
+# "tomato", "red", "crimson",
+# "pink", "plum", "purple", "violet",
+# "indigo", "blue", "cyan", "teal", "green", "grass", "orange", "brown".
