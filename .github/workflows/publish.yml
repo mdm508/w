@@ -1,35 +1,25 @@
-name: Publish Logseq Graph
-on:
-  push:
-    branches:
-      - main
-permissions:
-  contents: write  # Required to push to gh-pages
-jobs:
-  publish:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+on: [push]
 
-      - name: Publish Logseq Graph
-        uses: logseq/publish-spa@v0.3.0
+permissions:
+  contents: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    name: Publish Logseq graph
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: logseq/publish-spa@v0.3.0
         with:
-          graph-directory: logseq
-          output-directory: public
+          graph-directory: Graph
+          output-directory: www
           version: 0.10.6
           theme-mode: dark
           accent-color: violet
-
-      - name: Add .nojekyll
-        run: touch public/.nojekyll
-
-      - name: Deploy to GitHub Pages 🚀
+      - name: Add a nojekyll file
+        run: touch $GITHUB_WORKSPACE/www/.nojekyll
+      - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: gh-pages
-          folder: public
-
-# "tomato", "red", "crimson",
-# "pink", "plum", "purple", "violet",
-# "indigo", "blue", "cyan", "teal", "green", "grass", "orange", "brown".
+          folder: www
