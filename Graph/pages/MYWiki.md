@@ -1,4 +1,4 @@
-- Hi Wiki. This is a mess of stuff.
+- Hi welcome to my wiki. Today is August 18th,2025
 -
 - [[Scripts]]
-- ueoauoa
+-
