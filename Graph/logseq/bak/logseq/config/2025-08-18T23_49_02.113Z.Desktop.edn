@@ -422,5 +422,5 @@
  :publishing/all-pages-public? true
  :feature/enable-journals? false
  :default-home {:page "MYWiki"}
- :graph/settings {:builtin-pages? false
+ :graph/settings {:builtin-pages? true
  :excluded-pages? true}}
