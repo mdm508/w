@@ -1,0 +1,21 @@
+- [[Gateway to the Great Books Categories]]
+	- Based on the 10-volume "Gateway to the Great Books" (1963).
+	- Organized by **reading themes**, approachable for beginners.
+	- Categories:
+		- [[Imaginative Literature]]
+		- [[Critical Essays]]
+		- [[Man and Society]]
+		- [[Natural Science]]
+		- [[Mathematics]]
+		- [[Philosophical Essays]]
+	- Purpose: to provide an **accessible entry point** into the Great Conversation.
+- [[Great Books of the Western World Categories]]
+	- Based on the original 54-volume set (1952, Britannica).
+	- Organized by **fields of human knowledge**, tied to Adler’s "Great Ideas."
+	- Categories:
+		- [[Imaginative Literature]]
+		- [[History]]
+		- [[Science and Mathematics]]
+		- [[Philosophy and Theology]]
+		- [[Social Science]]
+	- Purpose: to present the **full range of Western thought** in a structured way.

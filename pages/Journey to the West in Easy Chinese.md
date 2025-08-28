@@ -1,0 +1,5 @@
+- Characters
+	- 孫悟空 the monkey king
+	-
+- Locations
+	- 花果山 is the home of 孫悟空

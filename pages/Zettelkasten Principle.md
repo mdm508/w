@@ -1,0 +1,4 @@
+- Each note = one idea (zettel).
+- Express in your own words.
+- Link notes to create context and a web of thought.
+- Knowledge grows through connections, not storage.
