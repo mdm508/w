@@ -1,0 +1,2 @@
+- ![Mortimer J. Adler - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mortimer_Adler.jpg/250px-Mortimer_Adler.jpg)
+-
