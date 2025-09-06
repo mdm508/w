@@ -1,6 +1,5 @@
 - Hi welcome to my wiki. Today is August 18th,2025
 -
 - [[Scripts]]
-	-
 - [[Reading]]
--
+- ueoaueoa
