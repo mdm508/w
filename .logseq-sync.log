@@ -1,21 +1,8 @@
-[2025-09-06 13:03:34] PRE: start
-[2025-09-06 13:03:34] PRE: branch: main
-[2025-09-06 13:03:35] PRE: failed to publish lease (race). try again.
-[2025-09-06 13:03:39] POST: start
-[2025-09-06 13:03:39] POST: branch: main
-[2025-09-06 13:03:41] PRE: start
-[2025-09-06 13:03:41] PRE: another sync is running locally; exiting.
-[2025-09-06 13:03:42] POST: done
-[2025-09-06 13:04:03] POST: start
-[2025-09-06 13:04:03] POST: branch: main
-[2025-09-06 13:04:05] POST: done
-[2025-09-06 13:04:16] PRE: start
-[2025-09-06 13:04:17] PRE: branch: main
-[2025-09-06 13:04:19] PRE: done
-[2025-09-06 13:04:35] POST: start
-[2025-09-06 13:04:36] POST: branch: main
-[2025-09-06 13:12:27] POST: start
-[2025-09-06 13:12:28] POST: branch: main
-[2025-09-06 13:12:53] PRE: done
-[2025-09-06 13:23:19] POST: start
-[2025-09-06 13:23:20] POST: branch: main
+[2025-09-06 12:59:07] POST: start
+[2025-09-06 12:59:08] POST: branch: main
+[2025-09-06 12:59:14] POST: done
+[2025-09-06 12:59:20] PRE: start
+[2025-09-06 12:59:21] PRE: branch: main
+[2025-09-06 12:59:26] PRE: done
+[2025-09-06 13:30:41] POST: start
+[2025-09-06 13:30:42] POST: branch: main
