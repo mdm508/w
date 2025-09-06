@@ -1,7 +1,7 @@
 reading-order:: 1
 author:: Mortimer J. Adler
 published-year:: 1940
-century:
+century:: [[20 AD]]
 category:: 
 start-date:: [[2025-08-26]]
 end-date:: [[]
