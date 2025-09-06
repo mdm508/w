@@ -1,2 +1,5 @@
 - ![Mortimer J. Adler - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mortimer_Adler.jpg/250px-Mortimer_Adler.jpg)
--
+- https://en.wikipedia.org/wiki/Mortimer_J._Adler
+	- Helped assemble the great books.
+	- San mateo resident.
+	- Self education enthusiast.
